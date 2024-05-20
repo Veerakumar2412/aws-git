@@ -1,0 +1,1 @@
+Application Files includes the actual files of our application, such as HTML, CSS, JavaScript, images, etc. These files constitute the frontend or backend logic of your application
